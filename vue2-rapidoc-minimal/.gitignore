@@ -1,0 +1,15 @@
+# Meta
+.DS_Store
+Thumbs.db
+local
+
+
+# IDE ignores
+.idea/
+*.iml
+.vscode/
+.run/
+
+# NPM
+dist/
+node_modules/
